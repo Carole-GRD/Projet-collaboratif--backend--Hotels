@@ -1,0 +1,301 @@
+[{
+  "_id": {
+    "$oid": "6319e7aac6b7e803ccb34b35"
+  },
+  "nom": "Hotel 1",
+  "etoiles": 4,
+  "adresse": {
+    "CP": "5000",
+    "numero": "4",
+    "rue": "Rue du vent",
+    "pays": "Belgique"
+  },
+  "telephone": "0476384740",
+  "email": "hotel.01@gmail.com",
+  "nombreChambres": 12,
+  "piscine": false,
+  "voiturier": true,
+  "roomService": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662642090507"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662642090507"
+    }
+  },
+  "__v": 0,
+  "image": "http://image.noelshack.com/fichiers/2022/36/4/1662646221-new-town-hall-g2241e35e6-640.jpg"
+},{
+  "_id": {
+    "$oid": "6319f3f5c6b7e803ccb34bda"
+  },
+  "nom": "Hotel 2",
+  "etoiles": 5,
+  "adresse": {
+    "CP": "5190",
+    "numero": "5",
+    "rue": "Rue de sambreville",
+    "pays": "Belgique"
+  },
+  "telephone": "0468212223",
+  "email": "hotel.02@hotmail.com",
+  "nombreChambres": 24,
+  "piscine": true,
+  "voiturier": false,
+  "roomService": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662645237610"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662645237610"
+    }
+  },
+  "__v": 0,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/1a/ea/54/hotel-presidente-4s.jpg"
+},{
+  "_id": {
+    "$oid": "6319f453c6b7e803ccb34bdc"
+  },
+  "nom": "Hotel 3",
+  "etoiles": 4,
+  "adresse": {
+    "CP": "6677",
+    "numero": "27",
+    "rue": "Rue des Sapins",
+    "pays": "Italie"
+  },
+  "telephone": "0468212445",
+  "email": "hotel.03@hotmail.com",
+  "nombreChambres": 15,
+  "piscine": true,
+  "voiturier": false,
+  "roomService": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662645331050"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662647161817"
+    }
+  },
+  "__v": 0,
+  "image": "http://image.noelshack.com/fichiers/2022/36/4/1662646328-shr-brussels-exterio-550bb871f3b624262136834.jpg"
+},{
+  "_id": {
+    "$oid": "6319f47ac6b7e803ccb34bde"
+  },
+  "nom": "Hotel 4",
+  "etoiles": 4,
+  "adresse": {
+    "CP": "51903",
+    "numero": "7",
+    "rue": "Rue de Paris",
+    "pays": "France"
+  },
+  "telephone": "0468212445",
+  "email": "hotel.04@gmail.com",
+  "nombreChambres": 20,
+  "piscine": true,
+  "voiturier": true,
+  "roomService": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662645370859"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662645370859"
+    }
+  },
+  "__v": 0,
+  "image": "https://image.noelshack.com/fichiers/2022/36/4/1662646360-1276-ho-00-p-1024x768.jpg"
+},{
+  "_id": {
+    "$oid": "6319f4c0c6b7e803ccb34be0"
+  },
+  "nom": "Hotel 5",
+  "etoiles": 2,
+  "adresse": {
+    "CP": "75903",
+    "numero": "7",
+    "rue": "Rue de Bruxelles",
+    "pays": "Belgique"
+  },
+  "telephone": "0476470774",
+  "email": "hotel.05@hotmail.com",
+  "nombreChambres": 12,
+  "piscine": true,
+  "voiturier": true,
+  "roomService": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662645440707"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662645440707"
+    }
+  },
+  "__v": 0,
+  "image": "http://image.noelshack.com/fichiers/2022/36/4/1662646221-new-town-hall-g2241e35e6-640.jpg"
+},{
+  "_id": {
+    "$oid": "6319f67c38628d744480b68f"
+  },
+  "nom": "Hotel 6",
+  "etoiles": 1,
+  "adresse": {
+    "CP": "12903",
+    "numero": "172",
+    "rue": "Rue Delpano",
+    "pays": "Italie"
+  },
+  "telephone": "0478120774",
+  "email": "hotel.06@hotmail.com",
+  "nombreChambres": 22,
+  "piscine": false,
+  "voiturier": true,
+  "roomService": true,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/1a/ea/54/hotel-presidente-4s.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662645884215"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662645884215"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6319f7e138628d744480b695"
+  },
+  "nom": "Hotel 7",
+  "etoiles": 4,
+  "adresse": {
+    "CP": "1290",
+    "numero": "132",
+    "rue": "Rue du port",
+    "pays": "Réunion"
+  },
+  "telephone": "0476552277",
+  "email": "hotel.07@gmail.com",
+  "nombreChambres": 14,
+  "piscine": true,
+  "voiturier": true,
+  "roomService": false,
+  "image": "http://image.noelshack.com/fichiers/2022/36/4/1662646328-shr-brussels-exterio-550bb871f3b624262136834.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662646241347"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662646241347"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6319f83438628d744480b697"
+  },
+  "nom": "Hotel 100",
+  "etoiles": 5,
+  "adresse": {
+    "CP": "5680",
+    "numero": "92",
+    "rue": "Rue de Sébastien",
+    "pays": "Réunion"
+  },
+  "telephone": "0476552258",
+  "email": "seb.08@gmail.com",
+  "nombreChambres": 16,
+  "piscine": false,
+  "voiturier": true,
+  "roomService": false,
+  "image": "https://image.noelshack.com/fichiers/2022/36/4/1662646360-1276-ho-00-p-1024x768.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662646324185"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662722567417"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6319f89a38628d744480b699"
+  },
+  "nom": "Hotel 9",
+  "etoiles": 3,
+  "adresse": {
+    "CP": "5850",
+    "numero": "47",
+    "rue": "Rue de Rome",
+    "pays": "Italie"
+  },
+  "telephone": "0478442758",
+  "email": "hotel.09@gmail.com",
+  "nombreChambres": 22,
+  "piscine": false,
+  "voiturier": false,
+  "roomService": false,
+  "image": "http://image.noelshack.com/fichiers/2022/36/4/1662646221-new-town-hall-g2241e35e6-640.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662646426218"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662646426218"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631af5bcfc2cde964601a389"
+  },
+  "nom": "Hôtel 13",
+  "etoiles": 3,
+  "adresse": {
+    "CP": "5000",
+    "numero": "6",
+    "rue": "Rue de Namur",
+    "pays": "Italie"
+  },
+  "telephone": "0475665588",
+  "email": "hotel.13@gmail.com",
+  "nombreChambres": 2,
+  "piscine": false,
+  "voiturier": false,
+  "roomService": true,
+  "image": "https://media-cdn.tripadvisor.com/media/vr-splice-j/09/ed/23/63.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662711228290"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662715049186"
+    }
+  },
+  "__v": 0
+}]

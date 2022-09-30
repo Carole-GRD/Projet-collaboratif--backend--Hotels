@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6319e2eb1d27204d718ca33a"
+  },
+  "pseudo": "Titi",
+  "firstname": "Carole",
+  "lastname": "Gérard",
+  "email": "gerard.carole@skynet.be",
+  "password": "$argon2id$v=19$m=4096,t=3,p=1$fkvo4K2x79nDcjGeKULtxw$yHRVo71/5A1H89RaWhtXwN7Q1hx0wpnOvfDofdpEr0I",
+  "country": "Belgique",
+  "phone": "+32476384740",
+  "role": "User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662640875689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662640875689"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631b1d3178fceaab49b91db9"
+  },
+  "pseudo": "Seb",
+  "firstname": "Sébastien",
+  "lastname": "Vanwynsberghe",
+  "email": "vw.seb@gamil.com",
+  "password": "$argon2id$v=19$m=4096,t=3,p=1$/E5XOHfsN+7NGUsb97x5pg$ZR6CCkgru202HSRp2mx5wXQDX1T/eqDRHDFkVwE6R7g",
+  "country": "Belgique",
+  "phone": "0475112233",
+  "role": "User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662721329526"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662721329526"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631b236c37b0a57611a0a575"
+  },
+  "pseudo": "Mmm",
+  "firstname": "Marc",
+  "lastname": "Dupont",
+  "email": "dupont.m@gmail.com",
+  "password": "$argon2id$v=19$m=4096,t=3,p=1$K2U3qFwvoxDZK8Oahh1veg$YW6EB7SiSboIt/kcZ22ku52dwtqlZQSYtnKm2rOx9TM",
+  "country": "France",
+  "phone": "0478112233",
+  "role": "User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662722924483"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662722924483"
+    }
+  },
+  "__v": 0
+}]
